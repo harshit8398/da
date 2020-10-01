@@ -1,2 +1,2 @@
 # Datastructure and Algorithms
-Contains standard Datastructures and Algorithms
+Contains the implementation of standard Datastructures and Algorithms
